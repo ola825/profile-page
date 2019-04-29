@@ -1,4 +1,4 @@
-# Profile Template
+# Profile Page Template
 
 *A simple HTML + CSS GitHub Pages powered profile page template.*
 
