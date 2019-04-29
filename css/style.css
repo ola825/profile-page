@@ -1,0 +1,66 @@
+ul.social-icons {
+  padding: 0;
+}
+.social-icons li {
+  list-style: none;
+  display: inline-block;
+  border-radius: 2em;
+  overflow: hidden;
+}
+.social-icons li a {
+  display: block;
+  padding: 0.3em;
+  max-width: 2em;
+  min-width: 2em;
+  height: 2em;
+  line-height: 1.5em;
+  font-family: arial;
+  color: #fff;
+}
+
+.social-icons li:hover a {
+  transform: scale(1.15);
+}
+.social-icons .linkedin {
+  background: #4875B4;
+}
+.social-icons .twitter {
+  background: #33CCFF;
+}
+.social-icons .medium {
+  background: #2f2f2f;
+}
+.social-icons .github {
+  background: #6e5494;
+}
+.social-icons .mail {
+    background: #B20000;
+  }
+
+hr.divider {
+  border-top: 1px solid #DCDCDC;
+  margin-top: 25px;
+  margin-bottom: 25px;
+}
+
+.personal-statement {
+  text-align: justify;
+}
+
+.description-text {
+    text-align: justify;
+  }
+
+.profile-image{
+    height: 200px;
+    width: 200px;
+    align-content: center
+}
+
+.top-col{
+    /* padding: 50px;
+    padding-bottom: 0px; */
+    margin-top: 15px;
+    padding: 0px 50px 0px 50px;
+}
+  
